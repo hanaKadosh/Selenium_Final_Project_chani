@@ -1,0 +1,44 @@
+    {
+    "tests_Data" :[
+        { 
+            "First Name": "chani",
+            "Last Name": "kadosh",
+            "City": "Jerusalem",    
+            "Email": "chani123@gmail.com",  
+            "prefix_Mobile" :"50",
+            "Mobile": "123456789" , 
+            "type": "M" ,
+            "list":["math","pyhs","bio","chem","eng"]
+        },
+        { 
+            "First Name": "hana",
+            "Last Name": "kadosh",
+            "City": "NON",    
+            "Email": "chani123@gmail.com",  
+            "prefix_Mobile" :"54",
+            "Mobile": "987654321" , 
+            "type": "O" ,
+            "list":["math","pyhs"]
+        },
+        { 
+            "First Name": "esti",
+            "Last Name": "kadosh",
+            "City": "Hiffa",    
+            "Email": "NON",  
+            "prefix_Mobile" :"50",
+            "Mobile": "000000000" , 
+            "type": "O" ,
+            "list":["math","pyhs"]
+        },
+        { 
+            "First Name": "rut",
+            "Last Name": "kadosh",
+            "City": "Hiffa",    
+            "Email": "NON",  
+            "prefix_Mobile" :"50",
+            "Mobile": "123456789" , 
+            "type": "F" ,
+            "list":["math","pyhs"]
+        }
+    ]
+    }
